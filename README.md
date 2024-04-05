@@ -4,7 +4,7 @@ it is an OS scheduler using different scheduling algorithms
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for develoment.  
 pip install requirements.txt  
-#### if above command doesn't work, then open requirements.txt file and manually install all the dependencies.
+## if above command doesn't work, then open requirements.txt file and manually install all the dependencies.
 pip install tkinter  
 python scheduler.py  
 
