@@ -1,4 +1,4 @@
-# OS-Scheduler
+# Smart-Scheduler
 Operating systems scheduling algorithms visualization.
 it is an OS scheduler using different scheduling algorithms
 ### Getting Started
