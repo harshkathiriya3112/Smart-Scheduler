@@ -39,8 +39,11 @@ The following output graphs is for inputfile at (testcases/SheetQuestion.txt)
 ![image](https://github.com/harshkathiriya3112/Smart-Scheduler/assets/83661454/cfcf2aa7-c160-4346-adc0-c699bca8350b)
 
 ### 2. High priority first  
-![Startup window for selecting (Input file) and (Selecting an algorithm to draw its corresponding scheduling](docs/HPF.png)
+![image](https://github.com/harshkathiriya3112/Smart-Scheduler/assets/83661454/4886a40e-f94e-47df-82c0-d2cbb15c5c2d)
+
 ### 3. Round Robin  
-![Startup window for selecting (Input file) and (Selecting an algorithm to draw its corresponding scheduling](docs/RR.png)
+![image](https://github.com/harshkathiriya3112/Smart-Scheduler/assets/83661454/7b485020-4634-4543-b6d9-55c7651fd909)
+
 ### 4. Short remaining time next  
-![Startup window for selecting (Input file) and (Selecting an algorithm to draw its corresponding scheduling](docs/SRTN.png)
+![image](https://github.com/harshkathiriya3112/Smart-Scheduler/assets/83661454/d2d4a92f-3410-4592-ad45-79ce5422d86d)
+
