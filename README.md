@@ -34,10 +34,10 @@ Startup window for selecting (Input file) and (Selecting an algorithm to draw it
 The following output graphs is for inputfile at (testcases/SheetQuestion.txt)
 
 0 indicates that the cpu is free  
--1 indicates that the context switching  
-![Startup window for selecting (Input file) and (Selecting an algorithm to draw its corresponding scheduling](docs/front.png)
+-1 indicates that the context switching   
 ### 1. First come first served  
-![Startup window for selecting (Input file) and (Selecting an algorithm to draw its corresponding scheduling](docs/FCFS.png)
+![image](https://github.com/harshkathiriya3112/Smart-Scheduler/assets/83661454/cfcf2aa7-c160-4346-adc0-c699bca8350b)
+
 ### 2. High priority first  
 ![Startup window for selecting (Input file) and (Selecting an algorithm to draw its corresponding scheduling](docs/HPF.png)
 ### 3. Round Robin  
